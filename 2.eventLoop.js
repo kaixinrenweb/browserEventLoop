@@ -1,6 +1,6 @@
 // 栈 执行代码  堆 存放引用
 
-// 宏任务  第一次代码执行的时候 script标签  setTimeout
+// 宏任务  第一次代码执行的时候 script标签 ui setTimeout
 // 单线程 主线程   工作线程 webworker 辅助线程
 
 // 微任务 Promise.then 
